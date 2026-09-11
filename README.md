@@ -133,6 +133,7 @@ A curated collection of essential tools, resources, and utilities for frontend d
 - [Flaticon](https://www.flaticon.com/) - Vector icons
 - [Fontello](http://fontello.com/) - Icon fonts
 - [Sparkk](http://svgicons.sparkk.fr/) - SVG icons
+- [SVGicons](https://svgicons.com/) - Search and browse open-source SVG icon sets for web and application development
 
 ### Fonts
 
